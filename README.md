@@ -48,3 +48,11 @@ Example: diretory path for cloud-shell doc/id_rsa.pub
 gcloud compute os-login ssh-keys add \
     --key-file= doc/id_rsa.pub \
     --project=your_project 
+
+#Install GNS3 and dependecy qemu
+<Coming soon>
+  
+## MAKE gns3 daemon ref
+https://docs.gns3.com/docs/using-gns3/administration/running-gns3-server-as-daemon/
+
+
