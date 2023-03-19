@@ -57,3 +57,5 @@ https://docs.gns3.com/docs/using-gns3/administration/running-gns3-server-as-daem
 https://github.com/infotechca/gns3-on-gcp
 https://github.com/GNS3/gns3-server
   
+#no statis busybox found
+sudo apt install busybox-static  
