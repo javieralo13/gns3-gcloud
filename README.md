@@ -54,5 +54,6 @@ gcloud compute os-login ssh-keys add \
   
 ## MAKE gns3 daemon ref
 https://docs.gns3.com/docs/using-gns3/administration/running-gns3-server-as-daemon/
-
-
+https://github.com/infotechca/gns3-on-gcp
+https://github.com/GNS3/gns3-server
+  
